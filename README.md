@@ -12,3 +12,5 @@ Luego abrí el símbolo del sistema para correr el código:
 E hice la prueba corriendo el programa:
 
 ![Alt text](image_3.png)
+
+Y así quedó.
